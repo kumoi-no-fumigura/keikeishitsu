@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keikeishitsu",
  "yomi": "けいけいしつしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "長歌集",
+  "era": "明治12年（1879）頃",
+  "author": "弁玉",
+  "desc": "僧弁玉の長歌集。近藤芳樹の序は、古今集の後に衰えた長歌が近世に再び盛んになったと述べ、弁玉もその一人とする。明治初年の御題や伊勢山の桜を詠む長歌などを収める。"
+ },
  "editions": [
   {
    "pid": "993387",
